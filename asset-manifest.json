@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yummy-guide/static/css/main.aa4fc4de.chunk.css",
+    "main.js": "/yummy-guide/static/js/main.16b49963.chunk.js",
+    "main.js.map": "/yummy-guide/static/js/main.16b49963.chunk.js.map",
+    "runtime-main.js": "/yummy-guide/static/js/runtime-main.35094d0e.js",
+    "runtime-main.js.map": "/yummy-guide/static/js/runtime-main.35094d0e.js.map",
+    "static/js/2.2b6e9b53.chunk.js": "/yummy-guide/static/js/2.2b6e9b53.chunk.js",
+    "static/js/2.2b6e9b53.chunk.js.map": "/yummy-guide/static/js/2.2b6e9b53.chunk.js.map",
+    "static/js/3.aefe0e7f.chunk.js": "/yummy-guide/static/js/3.aefe0e7f.chunk.js",
+    "static/js/3.aefe0e7f.chunk.js.map": "/yummy-guide/static/js/3.aefe0e7f.chunk.js.map",
+    "index.html": "/yummy-guide/index.html",
+    "static/css/main.aa4fc4de.chunk.css.map": "/yummy-guide/static/css/main.aa4fc4de.chunk.css.map",
+    "static/js/2.2b6e9b53.chunk.js.LICENSE.txt": "/yummy-guide/static/js/2.2b6e9b53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35094d0e.js",
+    "static/js/2.2b6e9b53.chunk.js",
+    "static/css/main.aa4fc4de.chunk.css",
+    "static/js/main.16b49963.chunk.js"
+  ]
+}
